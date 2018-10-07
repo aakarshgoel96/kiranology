@@ -33,7 +33,7 @@ Note: Ubuntu 14.04 or Ubuntu 16.04 LTS is recommended to be used.
 
    python manage.py runserver
 
-7. Visit [http://localhost:8000][localhost] in your browser & you are all set.
+7. Visit [http://localhost:8000][localhost] in your browser and you are all set.
    [localhost]: http://localhost:8000/
    
 We have added the database file(db.sqlite3), So there is not need to setup the database
