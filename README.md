@@ -1,4 +1,4 @@
-# kiranology description
+# kiranology desc
 
 #Installation
 
